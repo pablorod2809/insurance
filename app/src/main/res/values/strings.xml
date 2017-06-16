@@ -1,6 +1,32 @@
 <resources>
-    <string name="app_name">insurance</string>
+    <string name="app_name">PAS App</string>
 
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="navigation_drawer_open">Abrir PASApp</string>
+    <string name="navigation_drawer_close">Cerar PASApp</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_photos">Clientes</string>
+    <string name="nav_movies">Consultas</string>
+    <string name="nav_notifications">Polizas</string>
+    <string name="nav_settings">Configuracion</string>
+    <string name="nav_about_us">Acerca de</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>Clientes</item>
+        <item>Consultas</item>
+        <item>Polizas</item>
+        <item>Configuracion</item>
+    </string-array>
+
+    <string name="activity_title_about_us">Acerca de</string>
+    <string name="activity_title_privacy_policy">Politica de privacidad</string>
+    <string name="action_clear_all">Borrar todo</string>
+    <string name="action_logout">Salir</string>
+    <string name="action_mark_all_read">Marcar como leido</string>
+    <string name="privacy_policy">Politica de privacidad</string>
 </resources>
